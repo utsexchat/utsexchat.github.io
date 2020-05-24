@@ -18,7 +18,7 @@
 <meta property="og:description" content="UTSEXCHAT色聊平台提供您跟正妹線上即時視訊聊天，上百位視訊妹任你挑選，陪你整天不無聊。" />
 <meta property="og:url" content="https://www.utsexchat.com/" />
 <meta property="og:image" content="http://www.twuu.cc/images/1200x628_twuu.jpg" />
-<title>．台灣UTSEXCHAT密聊．台灣聊天室．台灣視頻聊天室．台灣同城聊天室．UTSEXCHAT黃播平台</title>
+<title>台灣UTSEXCHAT密聊．台灣聊天室．台灣視頻聊天室．台灣同城聊天室．UTSEXCHAT黃播平台</title>
 <link href="https://www.utsexchat.com/css/m.css" rel="stylesheet">
 </head>
 <body onselectstart="return false;" ondragstart="return false;" oncontextmenu="return false;">
@@ -61,7 +61,7 @@ if (e.ctrlKey || e.keyCode === 67 || e.keyCode === 85 || e.keyCode === 86 || e.k
 };
 });
 </script>
-<header>UTSEXCHAT黃播平台<a class="down" href="https://www.utsexchat.com/chatroom.html" target="_blank" title="台灣聊天室．台灣視頻聊天室．台灣同城聊天室．AVBOBO黃播平台">立即下載</a></header>
+<header>UTSEXCHAT直播平台<a class="down" href="https://www.utsexchat.com/chatroom.html" target="_blank" title="台灣UTSEXCHAT直播平台．台灣聊天室．台灣視頻聊天室．台灣同城聊天室．UTSEXCHAT黃播平台">立即下載</a></header>
 <section class="hot">
 <div class="titH">一對一私密表演</div>
 <ul class="down">
@@ -85,7 +85,7 @@ if (e.ctrlKey || e.keyCode === 67 || e.keyCode === 85 || e.keyCode === 86 || e.k
 <a href="https://www.utsexchat.com" target="_blank">官網查看更多精彩內容</a>
 </section>
 <footer>台灣UT直播 性感美女直播間
-<a class="down an" href="https://www.utsexchat.com/chatroom.html" target="_blank" title="AVBOBO色聊平台提供您跟正妹線上即時視訊聊天，上百位視訊妹任你挑選，陪你整天不無聊。">免費下載</a>
+<a class="down an" href="https://www.utsexchat.com/chatroom.html" target="_blank" title="台灣UTSEXCHAT色聊平台提供您跟正妹線上即時視訊聊天，上百位視訊妹任你挑選，陪你整天不無聊。">免費下載</a>
 <a class="down ios" href="https://www.utsexchat.com/chatroom.html" target="_blank" title="台灣UTSEXCHAT - 激情視訊 免費體驗 - 立即下載APP">免費下載</a></footer>
 <script src="https://www.utsexchat.com/js/flexible.js"></script>
 </footer>
