@@ -11,13 +11,13 @@
 <meta name="full-screen" content="yes" />
 <meta name="x5-fullscreen" content="true" />
 <meta name="applicable-device" content="mobile" />
-<meta name="description" content="UTSEXCHAT色聊平台提供您跟正妹線上即時視訊聊天，上百位視訊妹任你挑選，主播大尺度色情表演，陪你整天不無聊。" />
+<meta name="description" content="台灣UTSEXCHAT色聊平台提供您跟正妹線上即時視訊聊天，上百位視訊妹任你挑選，主播大尺度色情表演，陪你整天不無聊。" />
 <meta property="og:site_name" name="application-name" content="UTSEXCHAT聊天室列表 - UThome聊天室- 南台灣聊天室" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="台灣聊天室- 台灣視頻聊天室- 台灣同城聊天室" />
+<meta property="og:title" content="台灣UTSEXCHAT聊天室- 台灣視頻聊天室- 台灣同城聊天室" />
 <meta property="og:description" content="UTSEXCHAT色聊平台提供您跟正妹線上即時視訊聊天，上百位視訊妹任你挑選，陪你整天不無聊。" />
 <meta property="og:url" content="https://www.utsexchat.com/" />
-<meta property="og:image" content="http://www.twuu.cc/images/1200x628_twuu.jpg" />
+<meta property="og:image" content="http://www.twuu.cc/images/150x200_d.jpg" />
 <title>台灣UTSEXCHAT密聊．台灣聊天室．台灣視頻聊天室．台灣同城聊天室．UTSEXCHAT黃播平台</title>
 <link href="https://www.utsexchat.com/css/m.css" rel="stylesheet">
 </head>
@@ -61,7 +61,7 @@ if (e.ctrlKey || e.keyCode === 67 || e.keyCode === 85 || e.keyCode === 86 || e.k
 };
 });
 </script>
-<header>UTSEXCHAT直播平台<a class="down" href="https://www.utsexchat.com/chatroom.html" target="_blank" title="台灣UTSEXCHAT直播平台．台灣聊天室．台灣視頻聊天室．台灣同城聊天室．UTSEXCHAT黃播平台">立即下載</a></header>
+<header>台灣UTSEXCHAT直播平台<a class="down" href="https://www.utsexchat.com/chatroom.html" target="_blank" title="台灣UTSEXCHAT直播平台．台灣聊天室．台灣視頻聊天室．台灣同城聊天室．UTSEXCHAT黃播平台">立即下載</a></header>
 <section class="hot">
 <div class="titH">一對一私密表演</div>
 <ul class="down">
@@ -82,11 +82,11 @@ if (e.ctrlKey || e.keyCode === 67 || e.keyCode === 85 || e.keyCode === 86 || e.k
 </ul>
 </section>
 <section class="more">
-<a href="https://www.utsexchat.com" target="_blank">官網查看更多精彩內容</a>
+<a href="https://www.utsexchat.com" target="_blank" title="台灣UTSEXCHAT無碼直播">官網查看更多精彩內容</a>
 </section>
 <footer>台灣UT直播 性感美女直播間
 <a class="down an" href="https://www.utsexchat.com/chatroom.html" target="_blank" title="台灣UTSEXCHAT色聊平台提供您跟正妹線上即時視訊聊天，上百位視訊妹任你挑選，陪你整天不無聊。">免費下載</a>
-<a class="down ios" href="https://www.utsexchat.com/chatroom.html" target="_blank" title="台灣UTSEXCHAT - 激情視訊 免費體驗 - 立即下載APP">免費下載</a></footer>
+<a class="down ios" href="https://www.utsexchat.com/chatroom.html" target="_blank" title="台灣UTSEXCHAT無碼直播 - 激情視訊 免費體驗 - 立即下載APP">免費下載</a></footer>
 <script src="https://www.utsexchat.com/js/flexible.js"></script>
 </footer>
 </body> 
