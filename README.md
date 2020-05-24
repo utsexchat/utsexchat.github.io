@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no">
-<link rel="apple-touch-icon-precomposed" href="https://66.media.tumblr.com/2e7bde2067108abf28c2c922ec5d386c/10e7cba22acff669-5e/s540x810/d2193d0103c02c5d042e92ab75ad2a72bf23e0f3.png" />
-<link rel="Shortcut Icon" type="image/x-icon" href="https://66.media.tumblr.com/2e7bde2067108abf28c2c922ec5d386c/10e7cba22acff669-5e/s540x810/d2193d0103c02c5d042e92ab75ad2a72bf23e0f3.png" />
+<link rel="apple-touch-icon-precomposed" href="https://www.utsexchat.com/images/show.png" />
+<link rel="Shortcut Icon" type="image/x-icon" href="https://www.utsexchat.com/images/show.png" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black" />
 <meta name="format-detection" content="telephone=no" />
 <meta name="full-screen" content="yes" />
@@ -19,6 +19,7 @@
 <meta property="og:image" content="http://www.twuu.cc/images/1200x628_twuu.jpg" />
 <title>台灣聊天室．台灣視頻聊天室．台灣同城聊天室．AVBOBO黃播平台</title>
 <link href="https://www.utsexchat.com/css/m.css" rel="stylesheet">
+<meta name="google-site-verification" content="PSVowJ056zeJ3SSle2oR1xzlqojWBqDasbAez2ijbcU" />
 </head>
 <body onselectstart="return false;" ondragstart="return false;" oncontextmenu="return false;">
 <script type="text/javascript">
@@ -81,7 +82,7 @@ if (e.ctrlKey || e.keyCode === 67 || e.keyCode === 85 || e.keyCode === 86 || e.k
 </ul>
 </section>
 <section class="more">
-<a href="https://www.avbobo.com" target="_blank">官網查看更多精彩內容</a>
+<a href="https://www.utsexchat.com" target="_blank">官網查看更多精彩內容</a>
 </section>
 <footer>台灣UT直播 性感美女直播間
 <a class="down an" href="https://www.utsexchat.com/chatroom.html" target="_blank" title="AVBOBO色聊平台提供您跟正妹線上即時視訊聊天，上百位視訊妹任你挑選，陪你整天不無聊。">免費下載</a>
