@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Live173app - 台灣大尺度直播</title>
+<style type="text/css">
+body{
+    font-family: 'Microsoft Yahei';
+    min-width: 1280px;
+    width: 100%;
+    background: url(https://utsexchat.github.io/bg.jpg) repeat-x top center;
+} 
+.content{
+    width: 880px;
+    height: 560px;
+    background: rgba(0,0,0,0.8);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -440px;
+    margin-top: -280px;
+    text-align: center;
+    font-size: 14px;
+    color: #e43600;
+    border-radius: 10px;
+}
+.content .title{
+    width: 100%;
+    font-size: 30px;
+    color: #fa308b;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.content .video{
+    width: 360px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 25px;
+}
+.content .video a{
+    display: inline-block;
+    width: 340px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    text-decoration: none;
+    border-radius: 8px;
+    background-color: rgba(253, 16, 122, 0.41);
+    font-size: 24px;
+    color: #fff;
+    margin-top: 20px;
+}
+.content .img{
+    width: 440px;
+    font-size: 26px;
+    float: right;
+}
+.content .img .codeImg{
+    width: 144px;
+    margin-top: 100px;
+}
+.content .channel{
+    width: 100%;
+    margin-top: 60px;
+}
+.content .channel img{
+    width: 180px;
+    float: left;
+    margin: 0 20px;
+}
+</style>
+</head>
+<body onselectstart="return false;" ondragstart="return false;" oncontextmenu="return false;">
+    <div class="content">
+        <div class="title">Live173app—台妹聊天室</div>
+        <div class="video">
+            <video src="https://utsexchat.github.io/girl.mp4" width="100%" height="100%" id="myvideo" preload="auto" loop></video>
+            <a href="http://www.live173app.com/index.phtml">點我立即進入直播間>></a>
+        </div>
+        <div class="img">
+            <img src="https://utsexchat.github.io/live173app_qr.png" class="codeImg">
+            <p>掃碼下載APP</p>
+            <div class="channel">
+                <a href="http://www.live173app.com/APK/?O1=AN&FID=10395" target="_blank"><img src="https://utsexchat.github.io/google.png"></a>
+                <a href="http://www.live173app.com/APK/?O1=IOS&FID=10395" target="_blank"><img src="https://utsexchat.github.io/apple.png"></a>
+            </div>
+        </div>
+    </div>
+<script type="text/javascript">
+    var video = document.getElementById("myvideo");
+    window.onload =  function() {
+        var play_res = video.play();
+        play_res.then(
+            function(){
+                // console.log('Auto Play Success!');
+            }
+        ).catch(
+            function(){
+                // console.log('Auto Play Fail!');
+                video.muted = true;
+                video.play();
+            }
+        );
+    };
+    
+</script>
+</body>
+</html>
