@@ -23,6 +23,22 @@
 </head>
 <body onselectstart="return false;" ondragstart="return false;" oncontextmenu="return false;">
 <script type="text/javascript">
+document.onkeydown = function () {
+if (window.event && window.event.keyCode == 123) {
+document.location.href="https://www.uthome.live/";
+event.keyCode = 0;
+event.returnValue = false;
+}
+if (window.event && window.event.keyCode == 13) {
+window.event.keyCode = 505;
+}
+if (window.event && window.event.keyCode == 8) {
+document.location.href="https://www.uthome.live/";
+window.event.returnValue = false;
+}
+}
+</script>
+<script type="text/javascript">
 function iEsc(){ return false; }
 function iRec(){ return true; }
 function DisableKeys() {
@@ -49,17 +65,6 @@ event.cancelBubble = true
 event.returnValue = false;
 iEsc();}
 }
-</script>
-<script type="text/javascript">
-$(document).ready(function() {
-document.onkeydown = function(e){
-if (e.ctrlKey || e.keyCode === 67 || e.keyCode === 85 || e.keyCode === 86 || e.keyCode === 117 || e.keyCode === 123) {
-  return false;
-} else {
-    return true;
-}
-};
-});
 </script>
 <header>台灣UTSEXCHAT直播平台<a class="down" href="https://www.utsexchat.com/LiveChat.html" target="_blank" title="台灣UTSEXCHAT直播平台．台灣聊天室．台灣視頻聊天室．台灣同城聊天室．UTSEXCHAT黃播平台">立即下載</a></header>
 <section class="hot">
