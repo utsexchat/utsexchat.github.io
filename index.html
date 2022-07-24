@@ -20,6 +20,7 @@
 <meta property="og:image" content="http://www.twuu.cc/images/150x200_d.jpg" />
 <title>台灣UTSEXCHAT密聊．台灣聊天室．台灣視頻聊天室．台灣同城聊天室．UTSEXCHAT黃播平台</title>
 <link href="https://www.utsexchat.com/github/css/m.css" rel="stylesheet">
+<link href="https://www.utsexchat.com/github/css/swiper.min.css" rel="stylesheet">
 </head>
 <body onselectstart="return false;" ondragstart="return false;" oncontextmenu="return false;">
 <script type="text/javascript">
@@ -93,6 +94,8 @@ iEsc();}
 <a class="down an" href="https://www.utsexchat.com/LiveChat.html" target="_blank" title="台灣UTSEXCHAT色聊平台提供您跟正妹線上即時視訊聊天，上百位視訊妹任你挑選，陪你整天不無聊。">免費下載</a>
 <a class="down ios" href="https://www.utsexchat.com/LiveChat.html" target="_blank" title="台灣UTSEXCHAT無碼直播 - 激情視訊 免費體驗 - 立即下載APP">免費下載</a></footer>
 <script src="https://www.utsexchat.com/github/js/flexible.js"></script>
+<script src="https://www.utsexchat.com/github/js/jquery.min.js"></script>
+<script src="https://www.utsexchat.com/github/js/swiper.min.js"></script>
 </footer>
 </body> 
 </html>
