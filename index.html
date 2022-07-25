@@ -99,13 +99,13 @@ if (e.ctrlKey || e.keyCode === 67 || e.keyCode === 85 || e.keyCode === 86 || e.k
 </section>
 <div class="text-center" align="center">
 <div class="utsexchatLine"><br /></div>
-<a title="UThome福利小视频" href="http://www.uthome.live" target="_blank"><img src="https://www.utsexchat.com/github/images/uthoelive.png"></a>
+<a title="UThome福利小视频" href="http://www.uthome.live/index.phtml" target="_blank"><img src="https://www.utsexchat.com/github/images/uthoelive.png"></a>
 <div class="utsexchatLine"><br /></div>
-<a title="Live173app下载" href="http://www.live173app.com" target="_blank"><img src="https://www.utsexchat.com/github/images/live173app.png"></a>
+<a title="Live173app下载" href="http://www.live173app.com/index.phtml" target="_blank"><img src="https://www.utsexchat.com/github/images/live173app.png"></a>
 <div class="utsexchatLine"><br /></div>
-<a title="台湾uu裸聊室" href="http://www.twuu.cc" target="_blank"><img src="https://www.utsexchat.com/github/images/twuucc.jpg"></a>
+<a title="台湾uu裸聊室" href="http://www.twuu.cc/index.phtml" target="_blank"><img src="https://www.utsexchat.com/github/images/twuucc.jpg"></a>
 <div class="utsexchatLine"><br /></div>>
-<a title="台湾恋恋视频" href="http://www.ddimm.com" target="_blank"><img src="https://www.utsexchat.com/github/images/ddimmcom.png"></a>
+<a title="台湾恋恋视频" href="http://www.ddimm.com/index.phtml" target="_blank"><img src="https://www.utsexchat.com/github/images/ddimmcom.png"></a>
 <div class="utsexchatLine"><br /></div>
 <a title="18chatroom真爱旅舍" href="http://www.18chatroom.com/index.phtml" target="_blank"><img src="https://www.utsexchat.com/github/images/18chatroom.gif"></a>
 </div>
