@@ -110,7 +110,7 @@ if (e.ctrlKey || e.keyCode === 67 || e.keyCode === 85 || e.keyCode === 86 || e.k
 <a title="18chatroom真爱旅舍" href="http://www.18chatroom.com/index.phtml" target="_blank"><img src="https://www.utsexchat.com/github/images/18chatroom.gif"></a>
 </div>
 <section class="more">
-<a href="https://www.utsexchat.com/LiveChat.html" target="_blank">官网查看更多精彩内容</a>
+<a href="https://www.utsexchat.com" target="_blank">官网查看更多精彩内容</a>
 </section>
 <footer>台湾无码直播 性感美女直播间
 <a class="down an" href="https://www.utsexchat.com/LiveChat.html" target="_blank" title="台湾UU - 激情视讯 免费体验 - 立即下载APP">免费下载</a>
