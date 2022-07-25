@@ -14,7 +14,9 @@
 <meta property="og:title" content="台湾UTSEXCHAT聊天室- 台湾视频聊天室- 台湾同城聊天室" />
 <meta property="og:description" content="UTSEXCHAT色聊平台提供您跟正妹线上即时视讯聊天，上百位视讯妹任你挑选，陪你整天不无聊。" />
 <meta property="og:url" content="https://www.utsexchat.com/" />
-<meta property="og:image" content="http://www.utsexchat.com/github/images/utsexchat.gif" />
+<meta property="og:image" content="https://www.utsexchat.com/github/images/utsexchat.gif" />
+<link rel="apple-touch-icon-precomposed" href="https://www.utsexchat.com/github/images/show.png" />
+<link rel="Shortcut Icon" type="image/x-icon" href="https://www.utsexchat.com/github/images/show.png" />
 <title>台湾无码直播 性感美女直播间</title>
 <link href="https://www.utsexchat.com/github/css/m.css" rel="stylesheet">
 <script type="text/javascript">
